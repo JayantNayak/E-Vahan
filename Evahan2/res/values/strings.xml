@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EVAHAN</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_activity3">Activity3</string>
+    
+       <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_search">Search</string>
+    <string name="text1">Vikash Padhy</string>
+    <string name="text2">Age : 24</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+
+   
+   
+	
+	<string name="name1">Vikash Padhy</string>
+	<string name="age1">Age : 24</string>
+	<string name="name2">Abhaya Bhuyan</string>
+	<string name="age2">Age : 32</string>
+	<string name="name3">Tulu Behera</string>
+	<string name="age3">Age : 31</string>
+	<string name="android_launcher_image"></string>
+
+
+
+
+</resources>

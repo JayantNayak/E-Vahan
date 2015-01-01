@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout>
+
+        <EditText
+            android:id="@+id/vendor_view_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="vendor id" />
+
+        <Button
+            android:id="@+id/vendor_view_button"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/vendor_view_id"
+            android:text="View" />
+    </RelativeLayout>
+<linearlayout>
+    <TextView
+        android:id="@+id/name_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/contact_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/age_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/rating_view"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08"
+        android:textSize="24sp" >
+    </TextView>
+	</linearlayout>
+</LinearLayout>
